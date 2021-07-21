@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/murat-akdeniz/React-Blog.git/static/css/main.37ea6a4a.chunk.css",
+    "main.js": "/murat-akdeniz/React-Blog.git/static/js/main.66d64a28.chunk.js",
+    "main.js.map": "/murat-akdeniz/React-Blog.git/static/js/main.66d64a28.chunk.js.map",
+    "runtime-main.js": "/murat-akdeniz/React-Blog.git/static/js/runtime-main.e3c18e98.js",
+    "runtime-main.js.map": "/murat-akdeniz/React-Blog.git/static/js/runtime-main.e3c18e98.js.map",
+    "static/css/2.f558bcf9.chunk.css": "/murat-akdeniz/React-Blog.git/static/css/2.f558bcf9.chunk.css",
+    "static/js/2.234e46f5.chunk.js": "/murat-akdeniz/React-Blog.git/static/js/2.234e46f5.chunk.js",
+    "static/js/2.234e46f5.chunk.js.map": "/murat-akdeniz/React-Blog.git/static/js/2.234e46f5.chunk.js.map",
+    "index.html": "/murat-akdeniz/React-Blog.git/index.html",
+    "static/css/2.f558bcf9.chunk.css.map": "/murat-akdeniz/React-Blog.git/static/css/2.f558bcf9.chunk.css.map",
+    "static/css/main.37ea6a4a.chunk.css.map": "/murat-akdeniz/React-Blog.git/static/css/main.37ea6a4a.chunk.css.map",
+    "static/js/2.234e46f5.chunk.js.LICENSE.txt": "/murat-akdeniz/React-Blog.git/static/js/2.234e46f5.chunk.js.LICENSE.txt",
+    "static/media/cat.5c45dee8.jpg": "/murat-akdeniz/React-Blog.git/static/media/cat.5c45dee8.jpg",
+    "static/media/cow.cab34f16.jpg": "/murat-akdeniz/React-Blog.git/static/media/cow.cab34f16.jpg",
+    "static/media/flowers.75a57159.jpg": "/murat-akdeniz/React-Blog.git/static/media/flowers.75a57159.jpg",
+    "static/media/man.cc342d27.jpg": "/murat-akdeniz/React-Blog.git/static/media/man.cc342d27.jpg",
+    "static/media/rape-blossom.3ece4697.jpg": "/murat-akdeniz/React-Blog.git/static/media/rape-blossom.3ece4697.jpg",
+    "static/media/torres-del-paine.71c3c884.jpg": "/murat-akdeniz/React-Blog.git/static/media/torres-del-paine.71c3c884.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3c18e98.js",
+    "static/css/2.f558bcf9.chunk.css",
+    "static/js/2.234e46f5.chunk.js",
+    "static/css/main.37ea6a4a.chunk.css",
+    "static/js/main.66d64a28.chunk.js"
+  ]
+}
