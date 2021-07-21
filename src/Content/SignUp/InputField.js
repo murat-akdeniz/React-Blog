@@ -67,7 +67,7 @@ const Textarea = styled.textarea`
 `
 //props=label,onChangeHandler,type,value,placeHolder,formValues
 const InputField = (props) => {
-   console.log('props', props)
+
    //values=[email,firstName,lastName]
    const validateInput = values => {
       if (values.some(f => f === '') || values[0].indexOf('@') === -1)

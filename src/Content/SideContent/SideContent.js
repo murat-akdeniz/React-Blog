@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import MostRead from './MostRead'
-import Subscribe from './Subscribe'
 import SignUp from '../SignUp/SignUp'
 
 

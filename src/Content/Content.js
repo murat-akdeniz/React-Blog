@@ -13,7 +13,6 @@ const MyRow = styled.div`
 `
 const Content = ({ myprops }) => {
   const props = myprops[0]
-  console.log('propski', props)
   let ItemCards = props.filteredCard.map(item => {
     return (
       <MyRow key={item.id} className='row'>

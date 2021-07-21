@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { useEffect } from 'react'
 import styled from 'styled-components'
 import InputField from './InputField'
-import { Button } from './InputField'
+
 
 const H3 = styled.h3` 
    text-align: center;
@@ -25,9 +25,7 @@ const CustomForm = ({ status, message, onValidated }) => {
    const [lastName, setLastName] = useState('')
    const [check, setCheck] = useState(false)
    const [count, setCount] = useState(0)
-   console.log('status', status);
-   console.log('check', check);
-   console.log('count', count);
+
 
 
 
